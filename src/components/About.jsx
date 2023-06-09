@@ -8,13 +8,13 @@ const About = () => {
           <div className="author-image-container wow fadeInLeft">
             <div className="image-bg moving-effect" />
             <div className="image-area">
-              <img src="/src/assets/images/author/about.png" alt="" />
+              <img src="https://media.licdn.com/dms/image/D4E03AQEVNLbkfuRdNw/profile-displayphoto-shrink_800_800/0/1673338756074?e=1691625600&v=beta&t=9QPJoMIRi2GcDvXX7GsHeoSOCs-XTqT8UYaNlmIxf-E" alt="" />
             </div>
           </div>
         </div>
         <div className="col-lg-7 col-md-7 wow fadeInRight">
           <div className="section-title left">
-            <p className="sub-title">About me</p>
+            <p className="sub-title" style={{paddingTop:"10px"}}>About me</p>
             <h2>Awarded Designer</h2>
           </div>
           <p>
