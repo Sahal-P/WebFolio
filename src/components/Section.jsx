@@ -13,8 +13,8 @@ const Section = () => {
   <Home/>
   <Services/>
   <About/>
-  <Portfolio/>
-  <Testimonials/>
+  {/* <Portfolio/> */}
+  {/* <Testimonials/> */}
   <Client/>
   <Blog/>
   <Contact/>

@@ -5,7 +5,7 @@ const Blog = () => {
       <div className="section-title">
         <p className="sub-title">My Blog</p>
         <h2>
-          Our Recent Updates, <br />
+          My Recent Updates, <br />
           Blog, Tips, Tricks &amp; More
         </h2>
       </div>
@@ -14,7 +14,7 @@ const Blog = () => {
           <div className="blog-item wow fadeInUp" data-wow-delay=".2">
             <div className="blog-image-container">
               <a href="#blog-popup-1">
-                <img src="assets/images/blog/1.png" alt="" />
+                <img src="/src/assets/images/blog/1.png" alt="" />
               </a>
             </div>
             <div className="blog-content">
@@ -34,7 +34,7 @@ const Blog = () => {
             <div id="blog-popup-1" className="mfp-fade mfp-hide">
               <div className="content">
                 <div className="img">
-                  <img src="assets/images/blog/1.png" alt="dora_img" />
+                  <img src="/src/assets/images/blog/1.png" alt="dora_img" />
                 </div>
                 <div className="des">
                   <p className="category">
@@ -64,7 +64,7 @@ const Blog = () => {
           <div className="blog-item wow fadeInUp" data-wow-delay=".3">
             <div className="blog-image-container">
               <a href="#blog-popup-2">
-                <img src="assets/images/blog/2.png" alt="" />
+                <img src="/src/assets/images/blog/2.png" alt="" />
               </a>
             </div>
             <div className="blog-content">
@@ -84,7 +84,7 @@ const Blog = () => {
             <div id="blog-popup-2" className="mfp-fade mfp-hide">
               <div className="content">
                 <div className="img">
-                  <img src="assets/images/blog/2.png" alt="dora_img" />
+                  <img src="/src/assets/images/blog/2.png" alt="dora_img" />
                 </div>
                 <div className="des">
                   <p className="category">
@@ -114,7 +114,7 @@ const Blog = () => {
           <div className="blog-item wow fadeInUp" data-wow-delay=".4">
             <div className="blog-image-container">
               <a href="#blog-popup-3">
-                <img src="assets/images/blog/3.png" alt="" />
+                <img src="/src/assets/images/blog/3.png" alt="" />
               </a>
             </div>
             <div className="blog-content">
@@ -134,7 +134,7 @@ const Blog = () => {
             <div id="blog-popup-3" className="mfp-fade mfp-hide">
               <div className="content">
                 <div className="img">
-                  <img src="assets/images/blog/3.png" alt="dora_img" />
+                  <img src="/src/assets/images/blog/3.png" alt="dora_img" />
                 </div>
                 <div className="des">
                   <p className="category">

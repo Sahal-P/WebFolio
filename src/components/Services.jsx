@@ -15,7 +15,7 @@ const Services = () => {
           <div className="col-md-6 col-xl-4">
             <div className="service-card wow fadeInDown" data-wow-delay=".2s">
               <div className="icon-container">
-                <img src="assets/icons/uiux.svg" className="svg" alt="" />
+                <img src="/src/assets/icons/uiux.svg" className="svg" alt="" />
               </div>
               <h3>UI/UX Designer</h3>
               <p>
@@ -27,7 +27,7 @@ const Services = () => {
             <div className="mfp-fade mfp-hide" id="services_1">
               <div className="content">
                 <div className="img">
-                  <img src="assets/images/services/1.jpg" alt="" />
+                  <img src="/src/assets/images/services/1.jpg" alt="" />
                 </div>
                 <div className="des">
                   <h4>UI/UX Designer</h4>
@@ -55,7 +55,7 @@ const Services = () => {
           <div className="col-md-6 col-xl-4">
             <div className="service-card wow fadeInDown" data-wow-delay=".3s">
               <div className="icon-container">
-                <img src="assets/icons/web_dev.svg" className="svg" alt="" />
+                <img src="/src/assets/icons/web_dev.svg" className="svg" alt="" />
               </div>
               <h3>Webflow Developer</h3>
               <p>
@@ -66,7 +66,7 @@ const Services = () => {
               <div className="mfp-fade mfp-hide" id="services_2">
                 <div className="content">
                   <div className="img">
-                    <img src="assets/images/services/2.jpg" alt="" />
+                    <img src="/src/assets/images/services/2.jpg" alt="" />
                   </div>
                   <div className="des">
                     <h4>Webflow Developer</h4>
@@ -98,7 +98,7 @@ const Services = () => {
             <div className="service-card wow fadeInDown" data-wow-delay=".4s">
               <div className="icon-container">
                 <img
-                  src="assets/icons/product_desginer.svg"
+                  src="/src/assets/icons/product_desginer.svg"
                   className="svg"
                   alt=""
                 />
@@ -112,7 +112,7 @@ const Services = () => {
               <div className="mfp-fade mfp-hide" id="services_3">
                 <div className="content">
                   <div className="img">
-                    <img src="assets/images/services/3.jpg" alt="" />
+                    <img src="/src/assets/images/services/3.jpg" alt="" />
                   </div>
                   <div className="des">
                     <h4>Product Designer</h4>

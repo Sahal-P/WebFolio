@@ -7,27 +7,19 @@ const Client = () => {
           <div className="swiper-wrapper">
             <div className="swiper-slide">
               <a href="#">
-                <img src="assets/images/colaborators/1.png" alt="" />
+                <img src="/src/assets/images/colaborators/1.png" alt="" />
               </a>
-            </div>
-            <div className="swiper-slide">
               <a href="#">
-                <img src="assets/images/colaborators/2.png" alt="" />
+                <img src="/src/assets/images/colaborators/2.png" alt="" />
               </a>
-            </div>
-            <div className="swiper-slide">
               <a href="#">
-                <img src="assets/images/colaborators/3.png" alt="" />
+                <img src="/src/assets/images/colaborators/2.png" alt="" />
               </a>
-            </div>
-            <div className="swiper-slide">
               <a href="#">
-                <img src="assets/images/colaborators/4.png" alt="" />
+                <img src="/src/assets/images/colaborators/3.png" alt="" />
               </a>
-            </div>
-            <div className="swiper-slide">
               <a href="#">
-                <img src="assets/images/colaborators/5.png" alt="" />
+                <img src="/src/assets/images/colaborators/4.png" alt="" />
               </a>
             </div>
           </div>

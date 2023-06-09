@@ -8,7 +8,7 @@ const About = () => {
           <div className="author-image-container wow fadeInLeft">
             <div className="image-bg moving-effect" />
             <div className="image-area">
-              <img src="assets/images/author/about.png" alt="" />
+              <img src="/src/assets/images/author/about.png" alt="" />
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const About = () => {
       <div className="row">
         <div className="col-md-12">
           <div className="about-image">
-            <img src="assets/images/author/about.png" alt="" />
+            <img src="/src/assets/images/author/about.png" alt="" />
           </div>
         </div>
         <div className="col-md-12">

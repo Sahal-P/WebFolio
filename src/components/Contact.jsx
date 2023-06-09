@@ -11,7 +11,7 @@ const Contact = () => {
           <ul className="info-details">
             <li>
               <h4>Mail</h4>
-              <p>example@gmail.com</p>
+              <p>sahlcyprus@gmail.com</p>
             </li>
             <li>
               <h4>Address</h4>
@@ -22,7 +22,7 @@ const Contact = () => {
             </li>
             <li>
               <h4>Phone</h4>
-              <p>0123456789</p>
+              <p>9544633437</p>
             </li>
           </ul>
         </div>

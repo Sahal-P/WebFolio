@@ -31,7 +31,7 @@ const Testimonials = () => {
               </p>
               <div className="author-info">
                 <div className="image-container">
-                  <img src="assets/images/testimonial/1.jpg" alt="" />
+                  <img src="/src/assets/images/testimonial/1.jpg" alt="" />
                 </div>
                 <div className="author-info-content">
                   <h3>Beseie Cooper</h3>
@@ -50,7 +50,7 @@ const Testimonials = () => {
               </p>
               <div className="author-info">
                 <div className="image-container">
-                  <img src="assets/images/testimonial/2.jpg" alt="" />
+                  <img src="/src/assets/images/testimonial/2.jpg" alt="" />
                 </div>
                 <div className="author-info-content">
                   <h3>Mike Anderson</h3>
