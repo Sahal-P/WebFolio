@@ -1,11 +1,13 @@
-html::-webkit-scrollbar{
+html::-webkit-scrollbar {
   background-color: #212025;
   width: 11px;
 }
-html::-webkit-scrollbar-button{
+
+html::-webkit-scrollbar-button {
   height: 0px;
 }
-html::-webkit-scrollbar-thumb{
+
+html::-webkit-scrollbar-thumb {
   border-radius: 10px;
   background-color: #676cdb;
 }
